@@ -35,17 +35,16 @@
 ## 📊 Github Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jofre-Ivan&show_icons=true&theme=tokyonight&hide_border=false" height="180" alt="Jofre-Ivan Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jofre-Ivan&layout=compact&theme=tokyonight&hide_border=false" height="180" alt="Jofre-Ivan Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jofre-Ivan&show_icons=true&theme=tokyonight" height="170" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jofre-Ivan&layout=compact&theme=tokyonight" height="170" />
 
   <br><br>
 
   <a href="https://github.com/Jofre-Ivan/Deteccion-de-anomalias-en-el-rendimiento-de-redess">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jofre-Ivan&repo=Deteccion-de-anomalias-en-el-rendimiento-de-redess&theme=tokyonight&show_owner=true" alt="IDS Project" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jofre-Ivan&repo=Deteccion-de-anomalias-en-el-rendimiento-de-redess&theme=tokyonight" />
   </a>
 </div>
-
-<br>
 
 ## 🤝 Connect with me
 <p align="center">
