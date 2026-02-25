@@ -34,15 +34,16 @@
 
 ## 📊 Github Stats
 
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jofre-Ivan&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jofre-Ivan&show_icons=true&theme=tokyonight" height="170" alt="Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jofre-Ivan&layout=compact&theme=tokyonight" height="170" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jofre-Ivan&theme=tokyonight&show_icons=true" height="170" />
 
   <br><br>
 
   <a href="https://github.com/Jofre-Ivan/Deteccion-de-anomalias-en-el-rendimiento-de-redess">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jofre-Ivan&repo=Deteccion-de-anomalias-en-el-rendimiento-de-redess&theme=tokyonight" />
+    <img src="https://img.shields.io/badge/Project-Network%20Anomalies%20IDS-blue?style=for-the-badge&logo=github" height="40">
   </a>
 </div>
 
